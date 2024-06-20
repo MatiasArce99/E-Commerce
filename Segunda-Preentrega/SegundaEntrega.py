@@ -1,4 +1,4 @@
-def loginUsuario():
+def loginUsuario(): #Nombre de rama "desarrollo"
     print('\nLogin de usuarios\n')
     usuario = input('Ingrese nombre de usuario: ')
     if usuario in au.keys():
